@@ -1,0 +1,34 @@
+#header {
+	background: #44acff;
+	height:  50px;
+}
+#content{
+	background: #b7d84b;
+	width:  50%px;
+	height:  500px;
+	float:  left;
+}
+#navigation{
+	background: #e2a741;
+	width: 25%;
+	height: 500px;
+	float:  right;
+}
+#footer{
+	background: #ee3e64;
+	height: 50px;
+	clear: both;
+}
+!doctype html>
+<html>
+<head>
+ </title>My Blog</title>
+ <link rel="content://com.mixplorer.silver.fileProvider/CEWvRkIDpqtERwAob3cu7BUWvCOjgRe3WJM46L8=.html" type="text" herf="content://com.mixplorer.silver.fileProvider/CEWvRkIDpqtERwAob3cu7BUWvCOjghH0WMCJhD8=.css">
+</head>
+<body>
+	 <div id= "header"</div>
+	<div id= "content"></div>
+	<div id="navigation"></div>
+	<div id="footer"></div>
+	 </body>
+ </html>
